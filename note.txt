@@ -1,0 +1,3 @@
+https://github.com/brainfucksec/dotfiles
+~/.config/nvim/...    (config_nvim)
+~/.local/share/fonts/...
